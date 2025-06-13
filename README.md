@@ -57,7 +57,7 @@ This is a server-side event booking system built using **Node.js**, **Express**,
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/event-booking-system.git
+git clone https://github.com/NKiNU/event-booking-system.git
 cd event-booking-system
 ```
 
